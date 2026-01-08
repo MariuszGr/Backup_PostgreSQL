@@ -19,3 +19,8 @@ Modyfikacja → Restore pgAdmin → Restore CLI → Raport
 # Autor
 
 Mariusz Grochala
+
+
+# Status
+
+Projekt w trakcie realizacji.
