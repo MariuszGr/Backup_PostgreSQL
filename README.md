@@ -19,3 +19,8 @@ Modyfikacja → Restore pgAdmin → Restore CLI → Raport
 # Autor
 
 Mariusz Grochala
+
+
+# Autor Szczegół
+
+Mariusz Grochala, Indeks: 69783
